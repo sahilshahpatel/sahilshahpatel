@@ -1,4 +1,4 @@
-<img src="DSC06228.JPG" align="right" height="400px" alt="Image of Sahil standing outside">
+<img src="https://github.com/sahilshahpatel/sahilshahpatel/blob/master/DSC06228.JPG" align="right" height="400px" alt="Image of Sahil standing outside">
 
 ### Hi, I'm Sahil 👋
 
