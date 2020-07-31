@@ -8,7 +8,7 @@ I am currently a Junior studying Computer Engineering at the University of Illin
 - 🎙 I'm currently working on a voice assistant application for AARP's Staying Sharp program
 - 📚 I'm currently learning project management through my MechMania experience
 - 💬 Ask me about my work experience at Nokia and AARP
-- 📭 You can reach me at sahilshahpatel@gmail.com or through LinkedIn (linked below)
+- 📭 You can reach me at sahilshahpatel@gmail.com or through [LinkedIn](https://www.linkedin.com/in/sahilshahpatel/)
 - 🎞 Fun fact: I'm really into amateur video editing
 
-To see more about my work experience, trips abroad, and past projects, checkout [my website](https://sahilshahpatel.github.io/) and [my LinkedIn page](https://www.linkedin.com/in/sahilshahpatel/)!
+To see more about my work experience, trips abroad, and past projects, checkout [my website](https://sahilshahpatel.github.io/)!
