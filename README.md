@@ -2,7 +2,7 @@
 
 ### Hi, I'm Sahil 👋🏽
 
-I am currently a Junior studying Computer Engineering at the University of Illinois Urbana-Champaign and pursuing a minor in Spanish. I'm involved in multiple <a href = "https://acm.org" target = "_blank">ACM</a> special interests groups including SIGMusic and SIGGraph where I am a co-chair and a project lead respectively. As part of UIUC's 
+I am currently a Junior studying Computer Engineering at the University of Illinois Urbana-Champaign and pursuing a minor in Spanish. I'm involved in multiple <a href = "https://acm.org" target = "_blank">ACM</a> special interests groups including SIGMusic and SIGGraph where I am a co-chair and president respectively. As part of UIUC's 
 <a href = "https://reflectionsprojections.org" target="_blank">Reflections|Projections conference</a>, I am also the game engine lead for MechMania, an AI hackathon. My interests are varied and include audio, game development, signal processing, cybersecurity, and machine learning.
 
 - 🎙 I'm currently working on a voice assistant application for AARP's Staying Sharp program
